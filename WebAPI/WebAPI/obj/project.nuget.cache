@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "dz9WrU5+0DlaSvrDtExPTjvojq2CZrPp6Gwz/X/ffj3t5yllthhJZlVMRF/AqykNfPd/7hh6Bt7b4e17Z2RefQ==",
+  "success": true,
+  "projectFilePath": "/Users/alperersoy/Documents/dev/WorkoutWatch/WebAPI/WebAPI/WebAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/alperersoy/.nuget/packages/microsoft.aspnetcore.jsonpatch/3.1.9/microsoft.aspnetcore.jsonpatch.3.1.9.nupkg.sha512",
+    "/Users/alperersoy/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/3.1.9/microsoft.aspnetcore.mvc.newtonsoftjson.3.1.9.nupkg.sha512",
+    "/Users/alperersoy/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/alperersoy/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/alperersoy/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
